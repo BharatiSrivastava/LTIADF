@@ -1,0 +1,6 @@
+{
+	"name": "On-Premise-SelfHostedIR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
