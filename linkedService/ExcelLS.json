@@ -1,0 +1,17 @@
+{
+	"name": "ExcelLS",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "F:\\Project Gladiator",
+			"userId": "LAPTOP-9RHT4SO9\\Bharati",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1MGNiODdjOS05NDQ3LTQzMWQtOWY0OS00YzA2NTRhOGJiYjMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "MySelfHostedIR",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
